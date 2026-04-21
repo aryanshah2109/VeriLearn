@@ -182,10 +182,10 @@ cython_debug/
 evaluation/results/*
 
 # Data
-/data/*
+data/
 
 # Logs
-/logs/*
+logs/
 
 # Vector store
-/vector_store/*
+vector_store/
