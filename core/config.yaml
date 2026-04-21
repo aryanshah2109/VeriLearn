@@ -1,0 +1,59 @@
+project:
+  name: VeriLearn
+  version: 1.0.0
+  seed: 42
+
+chunking:
+  strategy: "semantic"
+  chunk_size: 500
+  overlap: 50
+  min_chunk_length: 100  
+
+embedding:
+  model_name: "all-MiniLM-L6-v2"
+  batch_size: 32
+  normalize: true   # cosine similarity optimization
+
+vector_db:
+  collection_name: "ncert_chunks"
+  top_k: 20
+  host: "localhost"
+  port: 6333
+
+bm25:
+  top_k: 20
+
+hybrid:
+  rrf_k: 60
+
+reranker:
+  model_name: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  top_k: 5
+
+generation:
+  provider: "ollama" 
+  model_name: "mistral:7b"
+  temperature: 0.2
+  num_predict: 512
+
+query:
+  classify: true
+  rewrite_enabled: true
+  max_rewrites: 2
+
+evaluation:
+  test_split: 0.2
+  metrics:
+    - mrr@10
+    - ndcg@10
+    - hit_rate@5
+
+self_eval:
+  enabled: true
+  threshold: 0.6
+
+logging:
+  level: DEBUG
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  save_logs: true
+  log_dir: "logs"
