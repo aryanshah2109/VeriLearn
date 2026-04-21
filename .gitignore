@@ -178,4 +178,14 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Evaluation results
 evaluation/results/*
+
+# Data
+/data/*
+
+# Logs
+/logs/*
+
+# Vector store
+/vector_store/*
