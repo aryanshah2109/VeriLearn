@@ -1,0 +1,882 @@
+[1] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: RATIONALISATION OF CONTENT IN THE TEXTBOOK
+TEXT: rationalisation of content in the textbook v
+------------------------------------------------------------
+[2] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: A NOTE FOR THE TEACHERS AND STUDENTS
+TEXT: a note for the teachers and students
+------------------------------------------------------------
+[3] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: DIVERSITY IN THE LIVING WORLD
+TEXT: diversity in the living world
+------------------------------------------------------------
+[4] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS
+TEXT: structural organisation in plants and animals
+------------------------------------------------------------
+[5] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: CELL : STRUCTURE AND FUNCTIONS
+TEXT: cell : structure and functions
+------------------------------------------------------------
+[6] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: THE LIVING WORLD
+TEXT: the living world 1.1 diversity in the living world how wonderful is the living world! the wide range of living types is amazing. the extraordinary habitats in which we find living organisms, be it cold mountains, deciduous forests, oceans, fresh water lakes, deserts or hot springs, leave us speechless. the beauty of a galloping horse, of the migrating birds, the valley of flowers or the attacking shark evokes awe and a deep sense of wonder. the ecological conflict and cooperation among members of a population and among populations of a community or even the molecular traffic inside a cell make us deeply reflect on – what indeed is life? this question has two implicit questions within it. the first is a technical one and seeks answer to what living is as opposed to the non-living, and the second is a philosophical one, and seeks answer to what the purpose of life is. as scientists, we shall not attempt answering the second question. we will try to reflect on – what is living? 1.2 taxonomic categories
+------------------------------------------------------------
+[7] TYPE=summary | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: summary the living world is rich in variety. millions of plants and animals have been identified and described but a large number still remains unknown. the very range of organisms in terms of size, colour, habitat, physiological and morphological features make us seek the defining characteristics of living organisms. in order to facilitate the study of kinds and diversity of organisms, biologists have evolved certain rules and principles for identification, nomenclature and classification of organisms. the branch of knowledge dealing with these aspects is referred to as taxonomy. the taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity. the basics of taxonomy like identification, naming and classification of organisms are universally evolved under international codes. based on the resemblances and distinct differences, each organism is identified and assigned a correct scientific/biological name comprising two words as per the binomial system of nomenclature. an organism represents/occupies a place or position in the system of classification. there are many categories/ ranks which are generally referred to as taxonomic categories or taxa. all the categories constitute a taxonomic hierarchy.
+------------------------------------------------------------
+[8] TYPE=process | LEVEL=2 | SOURCE=pymupdf
+TITLE: 17
+TEXT: 17 called conidia or sporangiospores or zoospores, and sexual reproduction is by oospores, ascospores and basidiospores. the various spores are produced in distinct structures called fruiting bodies. the sexual cycle involves the following three steps: (i) fusion of protoplasms between two motile or non-motile gametes
+------------------------------------------------------------
+[9] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: Fusion of two nuclei called karyogamy.
+TEXT: fusion of two nuclei called karyogamy. (iii) meiosis in zygote resulting in haploid spores. when a fungus reproduces sexually, two haploid hyphae of compatible mating types come together and fuse. in some fungi the fusion of two haploid cells immediately results in diploid cells (2n). however, in other fungi (ascomycetes and basidiomycetes), an intervening dikaryotic stage (n + n, i.e., two nuclei per cell) occurs; such a condition is called a dikaryon and the phase is called dikaryophase of fungus. later, the parental nuclei fuse and the cells become diploid. the fungi form fruiting bodies in which reduction division occurs, leading to formation of haploid spores. the morphology of the mycelium, mode of spore formation and fruiting bodies form the basis for the division of the kingdom into various classes. (a)
+------------------------------------------------------------
+[10] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 2.3.1
+TEXT: 2.3.1 phycomycetes members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. the mycelium is aseptate and coenocytic. asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile). these spores are endogenously produced in sporangium. a zygospore is formed by fusion of two gametes. these gametes are similar in morphology (isogamous) or dissimilar (anisogamous or oogamous). some common examples are mucor (figure 2.5a), rhizopus (the bread mould mentioned earlier) and albugo (the parasitic fungi on mustard). (b)
+------------------------------------------------------------
+[11] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: KINGDOM PLANTAE
+TEXT: kingdom plantae kingdom plantae includes all eukaryotic chlorophyll-containing organisms commonly called plants. a few members are partially heterotrophic such as the insectivorous plants or parasites. bladderwort and venus fly trap are examples of insectivorous plants and cuscuta is a parasite. the plant cells have an eukaryotic structure with prominent chloroplasts and cell wall mainly made of cellulose. you will study the eukaryotic cell structure in detail in chapter 8. plantae includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms. life cycle of plants has two distinct phases – the diploid sporophytic and the haploid gametophytic – that alternate with each other. the lengths of the haploid and diploid phases, and whether these phases are free– living or dependent on others, vary among different groups in plants. this phenomenon is called alternation of generations. you will study further details of this kingdom in chapter 3.
+------------------------------------------------------------
+[12] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: KINGDOM ANIMALIA
+TEXT: kingdom animalia this kingdom is characterised by heterotrophic eukaryotic organisms that are multicellular and their cells lack cell walls. they directly or indirectly depend on plants for food. they digest their food in an internal cavity and store food reserves as glycogen or fat. their mode of nutrition is holozoic – by ingestion of food. they follow a definite growth pattern and grow into adults that have a definite shape and size. higher forms show elaborate sensory and neuromotor mechanism. most of them are capable of locomotion. the sexual reproduction is by copulation of male and female followed by embryological development. salient features of various phyla are described in chapter 4.
+------------------------------------------------------------
+[13] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 21
+TEXT: 21 and vein clearing, dwarfing and stunted growth. viroids : in 1971, t.o. diener discovered a new infectious agent that was smaller than viruses and caused potato spindle tuber disease. it was found to be a free rna; it lacked the protein coat that is found in viruses, hence the name viroid. the rna of the viroid was of low molecular weight. prions : in modern medicine certain infectious neurological diseases were found to be transmitted by an agent consisting of abnormally folded protein. the agent was similar in size to viruses. these agents were called prions. the most notable diseases caused by prions are bovine spongiform encephalopathy (bse) commonly called mad cow disease in cattle and its analogous variant creutzfeldt–jacob disease (cjd) in humans. lichens : lichens are symbiotic associations i.e. mutually useful associations, between algae and fungi. the algal component is known as phycobiont and fungal component as mycobiont, which are autotrophic and heterotrophic, respectively. algae prepare food for fungi and fungi provide shelter and absorb mineral nutrients and water for its partner. so close is their association that if one saw a lichen in nature one would never imagine that they had two different organisms within them.
+------------------------------------------------------------
+[14] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 21
+TEXT: 21
+lichens are very good pollution indicators – they do not grow in polluted areas.
+------------------------------------------------------------
+[15] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: 24
+TEXT: 24 biology not only the external features, but also internal features, like ultrastructure, anatomy, embryology and phytochemistry. such a classification for flowering plants was given by george bentham and joseph dalton hooker. at present phylogenetic classification systems based on evolutionary relationships between the various organisms are acceptable. this assumes that organisms belonging to the same taxa have a common ancestor. we now use information from many other sources too to help resolve difficulties in classification. these become more important when there is no supporting fossil evidence. numerical taxonomy which is now easily carried out using computers is based on all observable characteristics. number and codes are assigned to all the characters and the data are then processed. in this way each character is given equal importance and at the same time hundreds of characters can be considered. cytotaxonomy, that is based on cytological information like chromosome number, structure, behaviour and chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days.
+------------------------------------------------------------
+[16] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: ALGAE
+TEXT: algae algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic (both fresh water and marine) organisms. they occur in a variety of other habitats: moist stones, soils and wood. some of them also occur in association with fungi (lichen) and animals (e.g., on sloth bear). the form and size of algae is highly variable, ranging from colonial forms like volvox and the filamentous forms like ulothrix and spirogyra (figure 3.1). a few of the marine forms such as kelps, form massive plant bodies. the algae reproduce by vegetative, asexual and sexual methods. vegetative reproduction is by fragmentation. each fragment develops into a thallus. asexual reproduction is by the production of different types of spores, the most common being the zoospores. they are flagellated (motile) and on germination gives rise to new plants. sexual reproduction takes place through fusion of two gametes. these gametes can be flagellated and similar in size (as in ulothrix) or non-flagellated (non-motile) but similar in size (as in spirogyra). such reproduction is called isogamous. fusion of two gametes dissimilar in size, as in species of eudorina is termed as anisogamous. fusion between one large, nonmotile (static) female gamete and a smaller, motile male gamete is termed
+------------------------------------------------------------
+[17] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 26
+TEXT: 26 biology algae are useful to man in a variety of ways. at least a half of the total carbon dioxide fixation on earth is carried out by algae through photosynthesis. being photosynthetic, they increase the level of dissolved oxygen in their immediate environment. they are of paramount importance as primary producers of energy-rich compounds which form the basis of the food cycles of all aquatic animals. many species of porphyra, laminaria and sargassum are among the 70 species of marine algae used as food. certain marine brown and red algae produce large amounts of hydrocolloids (water holding substances), e.g., algin (brown algae) and carrageen (red algae) which are used commercially. agar, one of the commercial products obtained from gelidium and gracilaria are used to grow microbes and in preparations of ice-creams and jellies. chlorella, a unicellular alga rich in proteins, is used as food supplement even by space travellers. the algae are divided into three main classes:
+------------------------------------------------------------
+[18] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: 3.1.1
+TEXT: 3.1.1 chlorophyceae the members of chlorophyceae are commonly called green algae. the plant body may be unicellular, colonial or filamentous. they are usually grass green due to the dominance of pigments chlorophyll a and b. the pigments are localised in definite chloroplasts. the chloroplasts may be discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped in different species. most of the members have one or more storage bodies called pyrenoids located in the chloroplasts. pyrenoids contain protein besides starch. some algae may store food in the form of oil droplets. green algae usually have a rigid cell wall made of an inner layer of cellulose and an outer layer of pectose. vegetative reproduction usually takes place by fragmentation. asexual reproduction is by flagellated zoospores produced in zoosporangia. the sexual reproduction shows considerable variation in the type and formation of sex cells and it may be isogamous, anisogamous or oogamous. some commonly found green algae are: chlamydomonas, volvox, ulothrix, spirogyra and chara (figure 3.1a).
+------------------------------------------------------------
+[19] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: 27
+TEXT: 27 them. food is stored as complex carbohydrates, which may be in the form of laminarin or mannitol. the vegetative cells have a cellulosic wall usually covered on the outside by a gelatinous coating of algin. the protoplast contains, in addition to plastids, a centrally located vacuole and nucleus. the plant body is usually attached to the substratum by a holdfast, and has a stalk, the stipe and leaf like photosynthetic organ – the frond. vegetative reproduction takes place by fragmentation. asexual reproduction in most brown algae is by biflagellate zoospores that are pear-shaped and have two unequal laterally attached flagella. sexual reproduction may be isogamous, anisogamous or oogamous. union of gametes may take place in water or within the oogonium (oogamous species). the gametes are pyriform (pear-shaped) and bear two laterally attached flagella. the common forms are ectocarpus, dictyota, laminaria, sargassum and fucus (figure 3.1b).
+------------------------------------------------------------
+[20] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: ANGIOSPERMS
+TEXT: angiosperms unlike the gymnosperms where the ovules are naked, in the angiosperms or flowering plants, the pollen grains and ovules are developed in specialised structures called flowers. in angiosperms, the seeds are enclosed in fruits. the angiosperms are an exceptionally large group of plants occurring in wide range of habitats. they range in size from the smallest wolffia to tall trees of eucalyptus (over 100 metres). they provide us with food, fodder, fuel, medicines and several other commercially important products. they are divided into two classes : the dicotyledons and the monocotyledons (figure 3.5). (b) (a) figure 3.5 angiosperms : (a) a dicotyledon (b) a monocotyledon
+------------------------------------------------------------
+[21] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  4
+TEXT: CHAPTER  4
+chapter 4 4.1 basis of classification when you look around, you will observe different animals with different structures and forms. as over a million species of animals have been described till now, the need for classification becomes all the more important. the classification also helps in assigning a systematic position to newly described species. 4.2 classification of animals
+------------------------------------------------------------
+[22] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 39
+TEXT: 39 those animals in which the developing embryo has a third germinal layer, mesoderm, in between the ectoderm and endoderm, are called
+------------------------------------------------------------
+[23] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: triploblastic animals (platyhelminthes to chordates, Figure 4.2b).
+TEXT: triploblastic animals (platyhelminthes to chordates, figure 4.2b).
+------------------------------------------------------------
+[24] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 4.1.4
+TEXT: 4.1.4 coelom presence or absence of a cavity between the body wall and the gut wall is very important in classification. the body cavity, which is lined by mesoderm is called coelom. animals possessing coelom are called coelomates, e.g., annelids, molluscs, arthropods, echinoderms, hemichordates and chordates (figure 4.3a). in some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm. such a body cavity is called pseudocoelom and the animals possessing them are called pseudocoelomates, e.g., aschelminthes (figure 4.3b). the animals in which the body cavity is absent are called
+------------------------------------------------------------
+[25] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: acoelomates, e.g., platyhelminthes (Figure 4.3c).
+TEXT: acoelomates, e.g., platyhelminthes (figure 4.3c). figure 4.3 diagrammatic sectional view of : (a) coelomate (b) pseudocoelomate (c) acoelomate
+------------------------------------------------------------
+[26] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 4.1.5
+TEXT: 4.1.5 segmentation in some animals, the body is externally and internally divided into segments with a serial repetition of at least some organs. for example, in earthworm, the body shows this pattern called metameric segmentation
+------------------------------------------------------------
+[27] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: and the phenomenon is known as metamerism.
+TEXT: and the phenomenon is known as metamerism.
+------------------------------------------------------------
+[28] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 4.1.6
+TEXT: 4.1.6 notochord notochord is a mesodermally derived rod-like structure formed on the dorsal side during embryonic development in some animals. animals with notochord are called chordates and those animals which do not form this structure are called non-chordates, e.g., porifera to echinoderms.
+------------------------------------------------------------
+[29] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 41
+TEXT: 41 examples: sycon (scypha), spongilla (fresh water sponge) and euspongia (bath sponge).
+------------------------------------------------------------
+[30] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: Phylum – Coelenterata (Cnidaria)
+TEXT: phylum – coelenterata (cnidaria) they are aquatic, mostly marine, sessile or free-swimming, radially symmetrical animals (figure 4.6). the name cnidaria is derived from the (b) (a) figure 4.6 examples of coelenterata indicating outline of their body form : (a) aurelia (medusa) (b) adamsia (polyp) cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body. cnidoblasts are used for anchorage, defense and for the capture of prey (figure 4.7). cnidarians exhibit tissue level of organisation and are diploblastic. they have a central
+------------------------------------------------------------
+[31] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  5
+TEXT: CHAPTER  5
+chapter 5 5.1 the root the wide range in the structure of higher plants will never fail to fascinate us. even though the angiosperms show such a large diversity in external structure or morphology, they are all characterised by presence of roots, stems, leaves, flowers and fruits. in chapters 2 and 3, we talked about classification of plants based on morphological and other characteristics. for any successful attempt at classification and at understanding any higher plant (or for that matter any living organism) we need to know standard technical terms and standard definitions. we also need to know about the possible variations in different parts, found as adaptations of the plants to their environment, e.g., adaptions to various habitats, for protection, climbing, storage, etc. if you pull out any weed you will see that all of them have roots, stems and leaves. they may be bearing flowers and fruits. the underground part of the flowering plant is the root system while the portion above the ground forms the shoot system (figure 5.1).
+------------------------------------------------------------
+[32] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  5
+TEXT: CHAPTER  5
+5.2 the stem 5.3 the leaf 5.4 the inflorescence 5.5 the flower 5.6 the fruit 5.7 the seed 5.8 semi-technical description of a typical flowering plant 5.9 description of some important families
+------------------------------------------------------------
+[33] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: THE STEM
+TEXT: the stem what are the features that distinguish a stem from a root? the stem is the ascending part of the axis bearing branches, leaves, flowers and fruits. it develops from the plumule of the embryo of a germinating seed. the stem bears nodes and internodes. the region of the stem where leaves are born are called nodes while internodes are the portions between two nodes. the stem bears buds, which may be terminal or axillary. stem is generally green when young and later often become woody and dark brown. the main function of the stem is spreading out branches bearing leaves, flowers and fruits. it conducts water, minerals and photosynthates. some stems perform the function of storage of food, support, protection and of vegetative propagation.
+------------------------------------------------------------
+[34] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 61
+TEXT: 61 number of leaflets are present on a common axis, the rachis, which represents the midrib of the leaf as in neem. in palmately compound leaves, the leaflets are attached at a common point, i.e., at the tip of petiole, as in silk cotton.
+------------------------------------------------------------
+[35] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 5.3.3
+TEXT: 5.3.3 phyllotaxy (a) china rose (b) guava phyllotaxy is the pattern of arrangement of leaves on the stem or branch. this is usually of three types – alternate, opposite and whorled (figure 5.6). in alternate type of phyllotaxy, a single leaf arises at each node in alternate manner, as in china rose, mustard and sun flower plants. in opposite type, a pair of leaves arise at each node and lie opposite to each other as in calotropis and guava plants. if more than two leaves arise at a node and form a whorl, it is called
+------------------------------------------------------------
+[36] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: whorled, as in Alstonia.
+TEXT: whorled, as in alstonia. (c) alstonia figure 5.6 different types of phyllotaxy : (a) alternate (b) opposite (c) whorled
+------------------------------------------------------------
+[37] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: THE INFLORESCENCE
+TEXT: the inflorescence a flower is a modified shoot wherein the shoot apical meristem changes to floral meristem. internodes do not elongate and the axis gets condensed. the apex produces different kinds of floral appendages laterally at successive nodes instead of leaves. when a shoot tip transforms into a flower, it is always solitary. the arrangement of flowers on the
+------------------------------------------------------------
+[38] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: SEMI-TECHNICAL DESCRIPTION OF A TYPICAL
+TEXT: semi-technical description of a typical
+------------------------------------------------------------
+[39] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  6
+TEXT: CHAPTER  6
+chapter 6 6.1 the tissue system you can very easily see the structural similarities and variations in the external morphology of the larger living organism, both plants and animals. similarly, if we were to study the internal structure, one also finds several similarities as well as differences. this chapter introduces you to the internal structure and functional organisation of higher plants. study of internal structure of plants is called anatomy. plants have cells as the basic unit, cells are organised into tissues and in turn the tissues are organised into organs. different organs in a plant show differences in their internal structure. within angiosperms, the monocots and dicots are also seen to be anatomically different. internal structures also show adaptations to diverse environments. 6.2 anatomy of dicotyledonous and monocotyledonous plants
+------------------------------------------------------------
+[40] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: ANIMALS
+TEXT: animals 7.1 organ and organ system in the preceding chapters you came across a large variety of organisms, both unicellular and multicellular, of the animal kingdom. in unicellular organisms, all functions like digestion, respiration and reproduction are performed by a single cell. in the complex body of multicellular animals the same basic functions are carried out by different groups of cells in a well organised manner. the body of a simple organism like hydra is made of different types of cells and the number of cells in each type can be in thousands. the human body is composed of billions of cells to perform various functions. how do these cells in the body work together? as you have already learnt in your earlier classes, in multicellular animals, a group of similar cells alongwith intercellular substances perform a specific function. such an organisation is called tissue. you may be surprised to know that all complex animals consist of only four basic types of tissues. these tissues are organised in specific proportion and pattern to form an organ like stomach, lung, heart and kidney.
+------------------------------------------------------------
+[41] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: ANIMALS
+TEXT: ANIMALS
+when two or more organs perform a common function by their physical and/or chemical interaction, they together form organ system, e.g., digestive system, respiratory system, etc. cells, tissues, organs and organ systems split up the work in a way that exhibits division of labour and contribute to the survival of the body as a whole. 7.2 frogs
+------------------------------------------------------------
+[42] TYPE=definition | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: summary cells, tissues, organs and organ systems split up the work in a way that ensures the survival of the body as a whole and exhibit division of labour. a tissue is defined as group of cells along with intercellular substances performing one or more functions in the body. epithelia are sheet like tissues lining the body’s surface and its cavities, ducts and tubes. epithelia have one free surface facing a body fluid or the outside environment. their cells are structurally and functionally connected at junctions. the indian bullfrog, rana tigrina, is the common frog found in india. body is covered by skin. mucous glands are present in the skin which is highly vascularised and helps in respiration in water and on land. body is divisible into head and trunk. a muscular tongue is present, which is bilobed at the tip and is used in capturing the prey. the alimentary canal consists of oesophagous, stomach, intestine and rectum, which open into the cloaca. the main digestive glands are liver and pancreas. it can respire in water through skin and through lungs on land. circulatory system is closed with single circulation. rbcs are nucleated.
+------------------------------------------------------------
+[43] TYPE=definition | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: SUMMARY
+nervous system is organised into central, peripheral and autonomic. the organs of urinogenital system are kidneys and urinogenital ducts, which open into the cloaca. the male reproductive organ is a pair of testes. the female reproductive organ is a pair of ovaries. a female lays 2500-3000 ova at a time. the fertilisation and development are external. the eggs hatch into tadpoles, which metamorphose into frogs.
+------------------------------------------------------------
+[44] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: CELL: THE UNIT OF LIFE
+TEXT: cell: the unit of life
+------------------------------------------------------------
+[45] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  8
+TEXT: CHAPTER  8
+chapter 8 8.1 what is a cell? when you look around, you see both living and non-living things. you must have wondered and asked yourself – ‘what is it that makes an organism living, or what is it that an inanimate thing does not have which a living thing has’ ? the answer to this is the presence of the basic unit of life – the cell in all living organisms. all organisms are composed of cells. some are composed of a single cell and are called unicellular organisms while others, like us, composed of many cells, are called multicellular organisms. 8.2 cell theory 8.3 an overview of cell 8.4 prokaryotic cells 8.5 eukaryotic cells
+------------------------------------------------------------
+[46] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: WHAT IS A CELL?
+TEXT: what is a cell? unicellular organisms are capable of (i) independent existence and (ii) performing the essential functions of life. anything less than a complete structure of a cell does not ensure independent living. hence, cell is the fundamental structural and functional unit of all living organisms. antonie von leeuwenhoek first saw and described a live cell. robert brown later discovered the nucleus. the invention of the microscope and its improvement leading to the electron microscope revealed all the structural details of the cell.
+------------------------------------------------------------
+[47] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 88
+TEXT: 88 biology schwann (1839), a german zoologist, studied different types of animal cells and reported that cells had a thin outer layer which is today known as the ‘plasma membrane’. he also concluded, based on his studies on plant tissues, that the presence of cell wall is a unique character of the plant cells. on the basis of this, schwann proposed the hypothesis that the bodies of animals and plants are composed of cells and products of cells. schleiden and schwann together formulated the cell theory. this theory however, did not explain as to how new cells were formed. rudolf virchow (1855) first explained that cells divided and new cells are formed from pre-existing cells (omnis cellula-e cellula). he modified the hypothesis of schleiden and schwann to give the cell theory a final shape. cell theory as understood today is: (i) all living organisms are composed of cells and products of cells. (ii) all cells arise from pre-existing cells.
+------------------------------------------------------------
+[48] TYPE=definition | LEVEL=2 | SOURCE=pymupdf
+TITLE: 90
+TEXT: 90 biology prokaryotes have a cell wall surrounding the cell membrane except in mycoplasma. the semifluid matrix filling the cell is the cytoplasm. there is no well-defined nucleus. the genetic material is basically naked, not enveloped by a nuclear membrane. in addition to the genomic dna (the single chromosome/circular dna), many bacteria have small circular dna outside the genomic dna. these smaller dna are called plasmids. the plasmid dna confers certain unique phenotypic characters to such bacteria. one such character is resistance to antibiotics. in higher classes you will learn that this plasmid dna is used to monitor bacterial transformation with foreign dna. nuclear membrane is found in eukaryotes. no organelles, like the ones in eukaryotes, are found in prokaryotic cells except for ribosomes. prokaryotes have something unique in the form of inclusions. a specialised differentiated form of cell membrane called mesosome is the characteristic of prokaryotes. they are essentially infoldings of cell membrane.
+------------------------------------------------------------
+[49] TYPE=definition | LEVEL=2 | SOURCE=pymupdf
+TITLE: 90
+TEXT: 90
+typical bacteria (1-2 m) � pplo (about 0.1 m) � viruses (0.02-0.2 m) � a typical eukaryotic cell (10-20 m) � figure 8.2 diagram showing comparison of eukaryotic cell with other organisms 8.4.1 cell envelope and its modifications most prokaryotic cells, particularly the bacterial cells, have a chemically complex cell envelope. the cell envelope consists of a tightly bound three layered structure i.e., the outermost glycocalyx followed by the cell wall and then the plasma membrane. although each layer of the envelope performs distinct function, they act together as a single protective unit. bacteria can be classified into two groups on the basis of the differences in the cell envelopes and the manner in which they respond to the staining procedure developed by gram viz., those that take up the gram stain are gram positive and the
+------------------------------------------------------------
+[50] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 96
+TEXT: 96 biology face and concave trans or the maturing face. the cis and the trans faces of the organelle are entirely different, but interconnected. the golgi apparatus principally performs the function of packaging materials, to be delivered either to the intra-cellular targets or secreted outside the cell. materials to be packaged in the form of vesicles from the er fuse with the cis face of the golgi apparatus and move towards the maturing face. this explains, why the golgi apparatus remains in close association with the endoplasmic reticulum. a number of proteins synthesised by ribosomes on the endoplasmic reticulum are modified in the cisternae of the golgi apparatus before they are released from its trans face. golgi apparatus is the important site of formation of glycoproteins and glycolipids.
+------------------------------------------------------------
+[51] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 8.5.3.3
+TEXT: 8.5.3.3 lysosomes these are membrane bound vesicular structures formed by the process of packaging in the golgi apparatus. the isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases) optimally active at the acidic ph. these enzymes are capable of digesting carbohydrates, proteins, lipids and nucleic acids.
+------------------------------------------------------------
+[52] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: 97
+TEXT: 97 outer membrane inner membrane inter-membrane space matrix crista figure 8.7 structure of mitochondrion (longitudinal section) membrane-bound structure with the outer membrane and the inner membrane dividing its lumen distinctly into two aqueous compartments, i.e., the outer compartment and the inner compartment. the inner compartment is filled with a dense homogeneous substance called the matrix. the outer membrane forms the continuous limiting boundary of the organelle. the inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix (figure 8.7). the cristae increase the surface area. the two membranes have their own specific enzymes associated with the mitochondrial function. mitochondria are the sites of aerobic respiration. they produce cellular energy in the form of atp, hence they are called ‘power houses’ of the cell. the matrix also possesses single circular dna molecule, a few rna molecules, ribosomes (70s) and the components required for the synthesis of proteins. the mitochondria divide by fission. 8.5.5 plastids plastids are found in all plant cells and in euglenoides. these are easily observed under the microscope as they are large. they bear some specific pigments, thus imparting specific colours to the plants.
+------------------------------------------------------------
+[53] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: 97
+TEXT: 97
+based on the type of pigments plastids can be classified into chloroplasts,
+------------------------------------------------------------
+[54] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  9
+TEXT: CHAPTER  9
+chapter 9 9.1 how to analyse chemical composition? there is a wide diversity in living organisms in our biosphere. now a question that arises in our minds is: are all living organisms made of the same chemicals, i.e., elements and compounds? you have learnt in chemistry how elemental analysis is performed. if we perform such an analysis on a plant tissue, animal tissue or a microbial paste, we obtain a list of elements like carbon, hydrogen, oxygen and several others and their respective content per unit mass of a living tissue. if the same analysis is performed on a piece of earth’s crust as an example of non-living matter, we obtain a similar list. what are the differences between the two lists? in absolute terms, no such differences could be made out. all the elements present in a sample of earth’s crust are also present in a sample of living tissue. however, a closer examination reveals that the relative abundance of carbon and hydrogen with respect to other elements is higher in any living organism than in earth’s crust (table 9.1).
+------------------------------------------------------------
+[55] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  9
+TEXT: CHAPTER  9
+9.2 primary and secondary metabolites 9.3 biomacromolecules 9.4 proteins 9.5 polysaccharides 9.6 nucleic acids 9.7 structure of proteins 9.8 enzymes
+------------------------------------------------------------
+[56] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 9.2 PRIMARY AND SECONDARY METABOLITES
+TEXT: 9.2 primary and secondary metabolites the most exciting aspect of chemistry deals with isolating thousands of compounds, small and big, from living organisms, determining their structure and if possible synthesising them. if one were to make a list of biomolecules, such a list would have thousands of organic compounds including amino acids, sugars, etc. for reasons that are given in section 9.10, we can call these biomolecules as ‘metabolites’. in animal tissues, one notices the presence of all such categories of compounds shown in figure 9.1. these are primary metabolites. however, when one analyses plant, fungal and microbial cells, one would see thousands of compounds other than these primary metabolites, e.g. alkaloids, flavonoids, rubber, essential oils, antibiotics, coloured pigments, scents, gums, spices. these
+------------------------------------------------------------
+[57] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: are called secondary metabolites (Table 9.3).
+TEXT: are called secondary metabolites (table 9.3). while primary metabolites have identifiable functions and play known roles in normal physiologial processes, we do not at the moment, understand the role or functions of all the ‘secondary metabolites’ in host organisms. however, many of them are useful to ‘human welfare’ (e.g., rubber, drugs, spices, scents and pigments). some secondary metabolites have ecological importance. in the later chapters and years you will learn more about this. table 9.3 some secondary metabolites pigments carotenoids, anthocyanins, etc. alkaloids morphine, codeine, etc. terpenoides monoterpenes, diterpenes etc. essential oils lemon grass oil, etc. toxins abrin, ricin lectins concanavalin a drugs vinblastin, curcumin, etc. polymeric rubber, gums, cellulose substances
+------------------------------------------------------------
+[58] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: 9.3 BIOMACROMOLECULES
+TEXT: 9.3 biomacromolecules there is one feature common to all those compounds found in the acid soluble pool. they have molecular weights ranging from 18 to around 800 daltons (da) approximately. the acid insoluble fraction, has only four types of organic compounds i.e., proteins, nucleic acids, polysaccharides and lipids. these classes of compounds with the exception of lipids, have molecular weights in the range of ten thousand daltons and above. for this very reason, biomolecules, i.e., chemical compounds found in living organisms are of two types. one, those which have molecular weights less than one thousand dalton and are usually referred to as micromolecules or simply biomolecules while those which are found in the acid insoluble fraction
+------------------------------------------------------------
+[59] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 112
+TEXT: 112 biology acid. the first amino acid is also called as n-terminal amino acid. the last amino acid is called the cterminal amino acid. a protein thread does not exist throughout as an extended rigid rod. the thread is folded in the form of a helix (similar to a revolving staircase). of course, only some portions of the protein thread are arranged in the form of a helix. in proteins, only right handed helices are observed. other regions of the protein thread are folded into other forms in what is called the secondary structure (fig. 9.3 b). in addition, the long protein chain is also folded upon itself like a hollow woolen ball, giving rise to the tertiary structure (fig. 9.3 c). this gives us a 3-dimensional view of a protein. tertiary structure is absolutely necessary for the many biological activities of proteins. (a) primary polypeptide (b) secondary alpha– helix beta–pleated sheet (c) hydrogen bond disulphide bond tertiary (d) quaternary figure 9.3 various levels of protein structure some proteins are an assembly of more than one polypeptide or subunits. the manner in which these individual folded polypeptides or subunits are arranged with respect to each other (e.g.
+------------------------------------------------------------
+[60] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 112
+TEXT: 112
+linear string of spheres, spheres arranged one upon each other in the form of a cube or plate etc.) is the architecture of a protein otherwise called the quaternary structure of a protein (fig. 9.3 d). adult human haemoglobin consists of 4 subunits. two of these are identical to each other. hence, two subunits of α type and two subunits of β type together constitute the human haemoglobin (hb).
+------------------------------------------------------------
+[61] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 114
+TEXT: 114 biology in the absence of any enzyme this reaction is very slow, with about 200 molecules of h2co3 being formed in an hour. however, by using the enzyme present within the cytoplasm called carbonic anhydrase, the reaction speeds dramatically with about 600,000 molecules being formed every second. the enzyme has accelerated the reaction rate by about 10 million times. the power of enzymes is incredible indeed! there are thousands of types of enzymes each catalysing a unique chemical or metabolic reaction. a multistep chemical reaction, when each of the steps is catalysed by the same enzyme complex or different enzymes, is called a metabolic pathway. for example, glucose →2 pyruvic acid c6h12o6 + o2 → 2c3h4 o3 + 2h2o is actually a metabolic pathway in which glucose becomes pyruvic acid through ten different enzyme catalysed metabolic reactions. when you study respiration in chapter 12, you will study these reactions. at this stage you should know that this very metabolic pathway with one or two additional reactions gives rise to a variety of metabolic end products. in our skeletal muscle, under anaerobic conditions, lactic acid is formed. under normal aerobic conditions, pyruvic acid is formed.
+------------------------------------------------------------
+[62] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 114
+TEXT: 114
+in yeast, during fermentation, the same pathway leads to the production of ethanol (alcohol). hence, in different conditions different products are possible.
+------------------------------------------------------------
+[63] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 9.8.2
+TEXT: 9.8.2 how do enzymes bring about such high rates of
+------------------------------------------------------------
+[64] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: CELL CYCLE AND CELL DIVISION
+TEXT: cell cycle and cell division
+------------------------------------------------------------
+[65] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  10
+TEXT: CHAPTER  10
+chapter 10 10.1 cell cycle are you aware that all organisms, even the largest, start their life from a single cell? you may wonder how a single cell then goes on to form such large organisms. growth and reproduction are characteristics of cells, indeed of all living organisms. all cells reproduce by dividing into two, with each parental cell giving rise to two daughter cells each time they divide. these newly formed daughter cells can themselves grow and divide, giving rise to a new cell population that is formed by the growth and division of a single parental cell and its progeny. in other words, such cycles of growth and division allow a single cell to form a structure consisting of millions of cells. 10.2 m phase 10.3 significance of mitosis 10.4 meiosis 10.5 significance of meiosis
+------------------------------------------------------------
+[66] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 121
+TEXT: 121 10.1.1 phases of cell cycle a typical eukaryotic cell cycle is illustrated by human cells in culture. these cells divide once in approximately every 24 hours (figure 10.1). however, this duration of cell cycle can vary from organism to organism and also from cell type to cell type. yeast for example, can progress through the cell cycle in only about 90 minutes. the cell cycle is divided into two basic phases: m phase l interphase l
+------------------------------------------------------------
+[67] TYPE=classification | LEVEL=2 | SOURCE=pymupdf
+TITLE: M Phase (Mitosis phase)
+TEXT: m phase (mitosis phase) the m phase represents the phase when the actual cell division or mitosis occurs and the interphase represents the phase between two successive m phases. it is significant to note that in the 24 hour average duration of cell cycle of a human cell, cell division proper lasts for only about an hour. the interphase lasts more than 95% of the duration of cell cycle. the m phase starts with the nuclear division, corresponding to the separation of daughter chromosomes (karyokinesis) and usually ends with division of cytoplasm (cytokinesis). the interphase, though called the resting phase, is the time during which the cell is preparing for division by undergoing both cell growth and dna replication in an orderly manner. the interphase is divided into three further phases: figure 10.1 a diagrammatic view of cell cycle indicating formation of two cells from one cell l
+------------------------------------------------------------
+[68] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: G1 phase (Gap 1)
+TEXT: g1 phase (gap 1) l
+------------------------------------------------------------
+[69] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 122
+TEXT: 122 biology some cells in the adult animals do not appear to exhibit division (e.g., heart cells) and many other cells divide only occasionally, as needed to replace cells that have been lost because of injury or cell death. these cells that do not divide further exit g1 phase to enter an inactive stage called quiescent stage (g0) of the cell cycle. cells in this stage remain metabolically active but no longer proliferate unless called on to do so depending on the requirement of the organism. in animals, mitotic cell division is only seen in the diploid somatic cells. however, there are few exceptions to this where haploid cells divide by mitosis, for example, male honey bees. against this, the plants can show mitotic divisions in both haploid and diploid cells. from your recollection of examples of alternation of generations in plants (chapter 3) identify plant species and stages at which mitosis is seen in haploid cells. you have studied mitosis in onion root tip cells. it has 16 chromosomes in each cell. can you tell how many chromosomes will the cell have at g1 phase, after s phase, and after m phase?
+------------------------------------------------------------
+[70] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 122
+TEXT: 122
+also, what will be the dna content of the cells at g1, after s and at g2, if the content after m phase is 2c?
+------------------------------------------------------------
+[71] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 127
+TEXT: 127 figure 10.3 stages of meiosis i anaphase i: the homologous chromosomes separate, while sister chromatids remain associated at their centromeres (figure 10.3). telophase i: the nuclear membrane and nucleolus reappear, cytokinesis follows and this is called as dyad of cells (figure 10.3). although in many cases the chromosomes do undergo some dispersion, they do not reach the extremely extended state of the interphase nucleus. the stage between the two meiotic divisions is called interkinesis and is generally short lived. there is no replication of dna during interkinesis. interkinesis is followed by prophase ii, a much simpler prophase than prophase i.
+------------------------------------------------------------
+[72] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: SIGNIFICANCE OF MEIOSIS
+TEXT: significance of meiosis meiosis is the mechanism by which conservation of specific chromosome number of each species is achieved across generations in sexually reproducing organisms, even though the process, per se, paradoxically, results in reduction of chromosome number by half. it also increases the genetic variability in the population of organisms from one generation to the next. variations are very important for the process of evolution.
+------------------------------------------------------------
+[73] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  11
+TEXT: CHAPTER  11
+chapter 11 11.1 what do we know? all animals including human beings depend on plants for their food. have you ever wondered from where plants get their food? green plants, in fact, have to make or rather synthesise the food they need and all other organisms depend on them for their needs. the green plants make or rather synthesise the food they need through photosynthesis and are therefore called autotrophs. you have already learnt that the autotrophic nutrition is found only in plants and all other organisms that depend on the green plants for food are heterotrophs. green plants carry out ‘photosynthesis’, a physico-chemical process by which they use light energy to drive the synthesis of organic compounds. ultimately, all living forms on earth depend on sunlight for energy. the use of energy from sunlight by plants doing photosynthesis is the basis of life on earth. photosynthesis is important due to two reasons: it is the primary source of all food on earth. it is also responsible for the release of oxygen into the atmosphere by green plants. have you ever thought what would happen if there were no oxygen to breath?
+------------------------------------------------------------
+[74] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  11
+TEXT: CHAPTER  11
+this chapter focusses on the structure of the photosynthetic machinery and the various reactions that transform light energy into chemical energy. 11.2 early experiments 11.3 where does photosynthesis take place? 11.4 how many pigments are involved in photosynthesis? 11.5 what is light reaction? 11.6 the electron transport 11.7 where are the atp and nadph used?
+------------------------------------------------------------
+[75] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: 134
+TEXT: 134 biology another experiment you may have carried out where a part of a leaf is enclosed in a test tube containing some koh soaked cotton (which absorbs co2), while the other half is exposed to air. the setup is then placed in light for some time. on testing for the presence of starch later in the two parts of the leaf, you must have found that the exposed part of the leaf tested positive for starch while the portion that was in the tube, tested negative. this showed that co2 was required for photosynthesis. can you explain how this conclusion could be drawn? (a) (b)
+------------------------------------------------------------
+[76] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: HOW MANY TYPES OF PIGMENTS ARE
+TEXT: how many types of pigments are
+------------------------------------------------------------
+[77] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: WHAT IS LIGHT REACTION?
+TEXT: what is light reaction? light reactions or the ‘photochemical’ phase include light absorption, water splitting, oxygen release, and the formation of high-energy chemical intermediates, atp and nadph. several protein complexes are involved in the process. the pigments are organised into two discrete photochemical light harvesting complexes (lhc) within the photosystem i (ps i) and photosystem ii (ps ii). these are named in the sequence of their discovery, and not in the sequence in which they function during the light reaction. the lhc are made up of hundreds of pigment molecules bound to proteins. each photosystem has all the pigments (except one molecule of chlorophyll a) forming a light harvesting system also called antennae (figure 11.4). these pigments help to make photosynthesis more efficient by absorbing different wavelengths of light. the single chlorophyll a molecule forms the reaction centre. the reaction centre is different in both the photosystems. in ps i the reaction centre chlorophyll a has an absorption peak at 700 nm, hence is called p700, while in ps ii it has absorption maxima at 680 nm, and is called p680. primary acceptor photon reaction centre pigment molecules figure 11.4 the light harvesting complex
+------------------------------------------------------------
+[78] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 147
+TEXT: 147 rich in an enzyme ribulose bisphosphate carboxylase-oxygenase (rubisco), but lack pepcase. thus, the basic pathway that results in the formation of the sugars, the calvin pathway, is common to the c3 and c4 plants. did you note that the calvin pathway occurs in all the mesophyll cells of the c3 plants? in the c4 plants it does not take place in the mesophyll cells but does so only in the bundle sheath cells.
+------------------------------------------------------------
+[79] TYPE=summary | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: summary green plants make their own food by photosynthesis. during this process carbon dioxide from the atmosphere is taken in by leaves through stomata and used for making carbohydrates, principally glucose and starch. photosynthesis takes place only in the green parts of the plants, mainly the leaves. within the leaves, the mesophyll cells have a large number of chloroplasts that are responsible for co2 fixation. within the chloroplasts, the membranes are sites for the light reaction, while the chemosynthetic pathway occurs in the stroma. photosynthesis has two stages: the light reaction and the carbon fixing reactions. in the light reaction the light energy is absorbed by the pigments present in the antenna, and funnelled to special chlorophyll a molecules called reaction centre chlorophylls. there are two photosystems, ps i and ps ii. ps i has a 700 nm absorbing chlorophyll a p700 molecule at its reaction centre, while ps ii has a p680 reaction centre that absorbs red light at 680 nm. after absorbing light, electrons are excited and transferred through ps ii and ps i and finally to nad forming nadh. during this process a proton gradient is created across the membrane of the thylakoid.
+------------------------------------------------------------
+[80] TYPE=summary | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: SUMMARY
+the breakdown of the protons gradient due to movement through the f0 part of the atpase enzyme releases enough energy for synthesis of atp. splitting of water molecules is associated with ps ii resulting in the release of o2, protons and transfer of electrons to ps ii. in the carbon fixation cycle, co2 is added by the enzyme, rubisco, to a 5carbon compound rubp that is converted to 2 molecules of 3-carbon pga. this is then converted to sugar by the calvin cycle, and the rubp is regenerated. during this process atp and nadph synthesised in the light reaction are utilised. rubisco also catalyses a wasteful oxygenation reaction in c3 plants: photorespiration. some tropical plants show a special type of photosynthesis called c4 pathway. in these plants the first product of co2 fixation that takes place in the mesophyll, is a 4-carbon compound. in the bundle sheath cells the calvin pathway is carried out for the synthesis of carbohydrates.
+------------------------------------------------------------
+[81] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: AEROBIC RESPIRATION
+TEXT: aerobic respiration for aerobic respiration to take place within the mitochondria, the final product of glycolysis, pyruvate is transported from the cytoplasm into the mitochondria. the crucial events in aerobic respiration are:
+------------------------------------------------------------
+[82] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: •
+TEXT: • the complete oxidation of pyruvate by the stepwise removal of all the hydrogen atoms, leaving three molecules of co2.
+------------------------------------------------------------
+[83] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 161
+TEXT: 161 transport system is utilised in synthesising atp with the help of atp synthase (complex v). this complex consists of two major components, f1 and f0 (figure 12.5). the f1 headpiece is a peripheral membrane protein complex and contains the site for synthesis of atp from adp and inorganic phosphate. f0 is an integral membrane protein complex that forms the channel through which protons cross the inner membrane. the passage of protons through the channel is coupled to the catalytic site of the f1 component for the production of atp. for each atp produced, 4h+ pass through f0 from the intermembrane space to the matrix down the electrochemical proton gradient. figure 12.5 diagramatic presentation of atp synthesis in mitochondria
+------------------------------------------------------------
+[84] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: 12.5 THE RESPIRATORY BALANCE SHEET
+TEXT: 12.5 the respiratory balance sheet it is possible to make calculations of the net gain of atp for every glucose molecule oxidised; but in reality this can remain only a theoretical exercise. these calculations can be made only on certain assumptions that:
+------------------------------------------------------------
+[85] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: •
+TEXT: • there is a sequential, orderly pathway functioning, with one substrate forming the next and with glycolysis, tca cycle and ets pathway following one after another.
+------------------------------------------------------------
+[86] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: •
+TEXT: • the nadh synthesised in glycolysis is transferred into the mitochondria and undergoes oxidative phosphorylation.
+------------------------------------------------------------
+[87] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: •
+TEXT: • none of the intermediates in the pathway are utilised to synthesise any other compound.
+------------------------------------------------------------
+[88] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: • Fermentation accounts for only a partial breakdown of glucose
+TEXT: • fermentation accounts for only a partial breakdown of glucose whereas in aerobic respiration it is completely degraded to co2 and h2o.
+------------------------------------------------------------
+[89] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: • In fermentation there is a net gain of only two molecules of ATP for
+TEXT: • in fermentation there is a net gain of only two molecules of atp for each molecule of glucose degraded to pyruvic acid whereas many more molecules of atp are generated under aerobic conditions.
+------------------------------------------------------------
+[90] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: • NADH is oxidised to NAD+ rather slowly in fermentation, however
+TEXT: • nadh is oxidised to nad+ rather slowly in fermentation, however the reaction is very vigorous in case of aerobic respiration.
+------------------------------------------------------------
+[91] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: 164
+TEXT: 164 biology c h o o co h o energy 6 12 6 2 2 2 6 6 6 + →  + + rq co o = = 6 6 1 0 2 2 . when fats are used in respiration, the rq is less than 1. calculations for a fatty acid, tripalmitin, if used as a substrate is shown: 2 145 102 98 51 98 6 2 2 2 ( ) c h o o co h o energy + →  + + tripalmitin rq co o = = 102 145 0 7 2 2 . when proteins are respiratory substrates the ratio would be about 0.9. what is important to recognise is that in living organisms, respiratory substrates are often more than one; pure proteins or fats are never used as respiratory substrates.
+------------------------------------------------------------
+[92] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: REDIFFERENTIATION
+TEXT: redifferentiation the cells derived from root apical and shoot-apical meristems and cambium differentiate and mature to perform specific functions. this act leading to maturation is termed as differentiation. during differentiation, cells undergo few to major structural changes both in their cell walls and protoplasm. for example, to form a tracheary element, the cells would lose their protoplasm. they also develop a very strong, elastic, lignocellulosic secondary cell walls, to carry water to long distances even under extreme tension. try to correlate the various anatomical features you encounter in plants to the functions they perform. plants show another interesting phenomenon. the living differentiated cells, that by now have lost the capacity to divide can regain the capacity of division under certain conditions. this phenomenon is termed as dedifferentiation. for example, formation of meristems – interfascicular cambium and cork cambium from fully differentiated parenchyma cells. while doing so, such meristems/tissues are able to divide and produce cells that once again lose the capacity to divide but mature to perform specific functions, i.e., get redifferentiated. list some of the tissues in a woody dicotyledenous plant that are the products of redifferentiation. how would you describe a tumour?
+------------------------------------------------------------
+[93] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: REDIFFERENTIATION
+TEXT: REDIFFERENTIATION
+what would you call the parenchyma cells that are made to divide under controlled laboratory conditions during plant tissue culture? recall, in section 13.1.1, we have mentioned that the growth in plants is open, i.e., it can be indeterminate or determinate. now, we may say that even differentiation in plants is open, because cells/tissues arising out of the same meristem have different structures at maturity. the final structure at maturity of a cell/tissue is also determined by the location of the cell within. for example, cells positioned away from root apical meristems differentiate as root-cap cells, while those pushed to the periphery mature as epidermis. can you add a few more examples of open differentiation correlating the position of a cell to its position in an organ?
+------------------------------------------------------------
+[94] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 175
+TEXT: 175 the ‘bakanae’ (foolish seedling) disease of rice seedlings, was caused by a fungal pathogen gibberella fujikuroi. e. kurosawa (1926) reported the appearance of symptoms of the disease in rice seedlings when they were treated with sterile filtrates of the fungus. the active substances were later identified as gibberellic acid. f. skoog and his co-workers observed that from the internodal segments of tobacco stems, the callus (a mass of undifferentiated cells) proliferated only if, in addition to auxins the nutrients medium was supplemented with one of the following: extracts of vascular tissues, yeast extract, coconut milk or dna. miller et al. (1955), later identified and crystallised the cytokinesis promoting active substance that they termed kinetin. during mid-1960s, three independent researches reported the purification and chemical characterisation of three different kinds of inhibitors: inhibitor-b, abscission ii and dormin. later all the three were proved to be chemically identical. it was named abscisic acid (aba). h.h. cousins (1910) confirmed the release of a volatile substance from ripened oranges that hastened the ripening of stored unripened bananas. later this volatile substance was identified as ethylene, a gaseous pgr.
+------------------------------------------------------------
+[95] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 175
+TEXT: 175
+let us study some of the physiological effects of these five categories of pgrs in the next section. 13.4.3 physiological effects of plant growth regulators 13.4.3.1 auxins auxins (from greek ‘auxein’ : to grow) was first isolated from human urine. the term ‘auxin’ is applied to the indole-3-acetic acid (iaa), and to other natural and synthetic compounds having certain growth regulating properties. they are generally produced by the growing apices of the stems and roots, from where they migrate to the regions of their action. auxins like iaa and indole butyric acid (iba) have been isolated from plants. na a (naphthalene acetic acid) and 2, 4-d (2, 4dichlorophenoxyacetic) are synthetic auxins. all these auxins have been used extensively in agricultural and horticultural practices. they help to initiate rooting in stem cuttings, an application widely used for plant propagation. auxins promote flowering e.g. in pineapples. they help to prevent fruit and leaf drop at early stages but promote the abscission of older mature leaves and fruits. in most higher plants, the growing apical bud inhibits the growth of
+------------------------------------------------------------
+[96] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: BREATHING AND EXCHANGE OF GASES
+TEXT: breathing and exchange of gases
+------------------------------------------------------------
+[97] TYPE=derivation | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  14
+TEXT: CHAPTER  14
+chapter 14 14.1 respiratory organs as you have read earlier, oxygen (o2) is utilised by the organisms to indirectly break down simple molecules like glucose, amino acids, fatty acids, etc., to derive energy to perform various activities. carbon dioxide (co2) which is harmful is also released during the above catabolic reactions. it is, therefore, evident that o2 has to be continuously provided to the cells and co2 produced by the cells have to be released out. this process of exchange of o2 from the atmosphere with co2 produced by the cells is called breathing, commonly known as respiration. place your hands on your chest; you can feel the chest moving up and down. you know that it is due to breathing. how do we breathe? the respiratory organs and the mechanism of breathing are described in the following sections of this chapter. 14.2 mechanism of breathing 14.3 exchange of gases 14.4 transport of gases 14.5 regulation of respiration 14.6 disorders of respiratory system
+------------------------------------------------------------
+[98] TYPE=process | LEVEL=1 | SOURCE=pymupdf
+TITLE: REGULATION OF RESPIRATION
+TEXT: regulation of respiration human beings have a significant ability to maintain and moderate the respiratory rhythm to suit the demands of the body tissues. this is done by the neural system. a specialised centre present in the medulla region of the brain called respiratory rhythm centre is primarily responsible for this regulation. another centre present in the pons region of the brain called pneumotaxic centre can moderate the functions of the respiratory rhythm centre. neural signal from this centre can reduce the duration of inspiration and thereby alter the respiratory rate. a chemosensitive area is situated adjacent to the rhythm centre which is highly sensitive to co2 and hydrogen ions. increase in these substances can activate this centre, which in turn can signal the rhythm centre to make necessary adjustments in the respiratory process by which these substances can be eliminated. receptors associated with aortic arch and carotid artery also can recognise changes in co2 and h+ concentration and send necessary signals to the rhythm centre for remedial actions. the role of oxygen in the regulation of respiratory rhythm is quite insignificant.
+------------------------------------------------------------
+[99] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  15
+TEXT: CHAPTER  15
+chapter 15 15.1 blood you have learnt that all living cells have to be provided with nutrients, o2 and other essential substances. also, the waste or harmful substances produced, have to be removed continuously for healthy functioning of tissues. it is therefore, essential to have efficient mechanisms for the movement of these substances to the cells and from the cells. different groups of animals have evolved different methods for this transport. simple organisms like sponges and coelenterates circulate water from their surroundings through their body cavities to facilitate the cells to exchange these substances. more complex organisms use special fluids within their bodies to transport such materials. blood is the most commonly used body fluid by most of the higher organisms, including humans, for this purpose. another body fluid, lymph, also helps in the transport of certain substances. in this chapter, you will learn about the composition and properties of blood and lymph (tissue fluid) and the mechanism of circulation of blood is also explained herein. 15.2 lymph (tissue fluid) 15.3 circulatory pathways 15.4 double circulation 15.5 regulation of cardiac activity 15.6 disorders of circulatory system
+------------------------------------------------------------
+[100] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: LYMPH (TISSUE FLUID)
+TEXT: lymph (tissue fluid) as the blood passes through the capillaries in tissues, some water along with many small water soluble substances move out into the spaces between the cells of tissues leaving the larger proteins and most of the formed elements in the blood vessels. this fluid released out is called the interstitial fluid or tissue fluid. it has the same mineral distribution as that in plasma. exchange of nutrients, gases, etc., between the blood and the cells always occur through this fluid. an elaborate network of vessels called the lymphatic system collects this fluid and drains it back to the major veins. the fluid present in the lymphatic system is called the lymph. lymph is a colourless fluid containing specialised lymphocytes which are responsible for the immune responses of the body. lymph is also an important carrier for nutrients, hormones, etc. fats are absorbed through lymph in the lacteals present in the intestinal villi.
+------------------------------------------------------------
+[101] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 200
+TEXT: 200 biology bicuspid valves due to attempted backflow of blood into the atria. as the ventricular pressure increases further, the semilunar valves guarding the pulmonary artery (right side) and the aorta (left side) are forced open, allowing the blood in the ventricles to flow through these vessels into the circulatory pathways. the ventricles now relax (ventricular diastole) and the ventricular pressure falls causing the closure of semilunar valves which prevents the backflow of blood into the ventricles. as the ventricular pressure declines further, the tricuspid and bicuspid valves are pushed open by the pressure in the atria exerted by the blood which was being emptied into them by the veins. the blood now once again moves freely to the ventricles. the ventricles and atria are now again in a relaxed (joint diastole) state, as earlier. soon the san generates a new action potential and the events described above are repeated in that sequence and the process continues. this sequential event in the heart which is cyclically repeated is called the cardiac cycle and it consists of systole and diastole of both the atria and ventricles.
+------------------------------------------------------------
+[102] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: 200
+TEXT: 200
+as mentioned earlier, the heart beats 72 times per minute, i.e., that many cardiac cycles are performed per minute. from this it could be deduced that the duration of a cardiac cycle is 0.8 seconds. during a cardiac cycle, each ventricle pumps out approximately 70 ml of blood which is called the stroke volume. the stroke volume multiplied by the heart rate (no. of beats per min.) gives the cardiac output. therefore, the cardiac output can be defined as the volume of blood pumped out by each ventricle per minute and averages 5000 ml or 5 litres in a healthy individual. the body has the ability to alter the stroke volume as well as the heart rate and thereby the cardiac output. for example, the cardiac output of an athlete will be much higher than that of an ordinary man. during each cardiac cycle two prominent sounds are produced which can be easily heard through a stethoscope. the first heart sound (lub) is associated with the closure of the tricuspid and bicuspid valves whereas the second heart sound (dub) is associated with the closure of the semilunar valves. these sounds are of clinical diagnostic significance.
+------------------------------------------------------------
+[103] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: 201
+TEXT: 201 figure 15.3), a patient is connected to the machine with three electrical leads (one to each wrist and to the left ankle) that continuously monitor the heart activity. for a detailed evaluation of the heart’s function, multiple leads are attached to the chest region. here, we will talk only about a standard ecg. each peak in the ecg is identified with a letter from p to t that corresponds to a specific electrical activity of the heart. the p-wave represents the electrical excitation (or depolarisation) of the atria, which leads to the contraction of both the atria. the qrs complex represents the depolarisation of the ventricles, which initiates the ventricular contraction. the contraction starts shortly after q and marks the beginning of the systole. the t-wave represents the return of the ventricles from excited to normal state (repolarisation). the end of the t-wave marks the end of systole. obviously, by counting the number of qrs complexes that occur in a given time period, one can determine the heart beat rate of an individual.
+------------------------------------------------------------
+[104] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: 201
+TEXT: 201
+since the ecgs obtained from different individuals have roughly the same shape for a given lead configuration, any deviation from this shape indicates a possible abnormality or disease. hence, it is of a great clinical significance. figure 15.3 diagrammatic presentation of a standard ecg
+------------------------------------------------------------
+[105] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: REGULATION OF CARDIAC ACTIVITY
+TEXT: regulation of cardiac activity normal activities of the heart are regulated intrinsically, i.e., auto regulated by specialised muscles (nodal tissue), hence the heart is called myogenic. a special neural centre in the medulla oblangata can moderate the cardiac function through autonomic nervous system (ans). neural signals through the sympathetic nerves (part of ans) can increase the rate of heart beat, the strength of ventricular contraction and thereby the cardiac output. on the other hand, parasympathetic neural signals (another component of ans) decrease the rate of heart beat, speed of conduction of action potential and thereby the cardiac output. adrenal medullary hormones can also increase the cardiac output.
+------------------------------------------------------------
+[106] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: REGULATION OF KIDNEY FUNCTION
+TEXT: regulation of kidney function the functioning of the kidneys is efficiently monitored and regulated by hormonal feedback mechanisms involving the hypothalamus, jga and to a certain extent, the heart. osmoreceptors in the body are activated by changes in blood volume, body fluid volume and ionic concentration. an excessive loss of fluid from the body can activate these receptors which stimulate the hypothalamus to release antidiuretic hormone (adh) or vasopressin from the neurohypophysis. adh facilitates water reabsorption from latter parts of the tubule, thereby preventing diuresis. an increase in body fluid volume can switch off the osmoreceptors and suppress the adh release to complete the feedback. adh can also affect the kidney function by its constrictory effects on blood vessels. this causes an increase in blood pressure. an increase in blood pressure can increase the glomerular blood flow and thereby the gfr. the jga plays a complex regulatory role. a fall in glomerular blood flow/glomerular blood pressure/gfr can activate the jg cells to release renin which converts angiotensinogen in blood to angiotensin i and further to angiotensin ii. angiotensin ii, being a powerful vasoconstrictor, increases the glomerular blood pressure and thereby gfr.
+------------------------------------------------------------
+[107] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: REGULATION OF KIDNEY FUNCTION
+TEXT: REGULATION OF KIDNEY FUNCTION
+angiotensin ii also activates the adrenal cortex to release aldosterone. aldosterone causes reabsorption of na+ and water from the distal parts of the tubule. this also leads to an increase in blood pressure and gfr. this complex mechanism is generally known as the renin-angiotensin mechanism. an increase in blood flow to the atria of the heart can cause the release of atrial natriuretic factor (anf). anf can cause vasodilation (dilation of blood vessels) and thereby decrease the blood pressure. anf mechanism, therefore, acts as a check on the renin-angiotensin mechanism.
+------------------------------------------------------------
+[108] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 213
+TEXT: 213 to initiate the contraction of smooth muscles of the bladder and simultaneous relaxation of the urethral sphincter causing the release of urine. the process of release of urine is called micturition and the neural mechanisms causing it is called the micturition reflex. an adult human excretes, on an average, 1 to 1.5 litres of urine per day. the urine formed is a light yellow coloured watery fluid which is slightly acidic (ph-6.0) and has a characterestic odour. on an average, 25-30 gm of urea is excreted out per day. various conditions can affect the characteristics of urine. analysis of urine helps in clinical diagnosis of many metabolic discorders as well as malfunctioning of the kidney. for example, presence of glucose (glycosuria) and ketone bodies (ketonuria) in urine are indicative of diabetes mellitus.
+------------------------------------------------------------
+[109] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: ROLE OF OTHER ORGANS IN EXCRETION
+TEXT: role of other organs in excretion other than the kidneys, lungs, liver and skin also help in the elimination of excretory wastes. our lungs remove large amounts of co2 (approximately 200ml/ minute) and also significant quantities of water every day. liver, the largest gland in our body, secretes bile-containing substances like bilirubin, biliverdin, cholesterol, degraded steroid hormones, vitamins and drugs. most of these substances ultimately pass out along with digestive wastes. the sweat and sebaceous glands in the skin can eliminate certain substances through their secretions. sweat produced by the sweat glands is a watery fluid containing nacl, small amounts of urea, lactic acid, etc. though the primary function of sweat is to facilitate a cooling effect on the body surface, it also helps in the removal of some of the wastes mentioned above. sebaceous glands eliminate certain substances like sterols, hydrocarbons and waxes through sebum. this secretion provides a protective oily covering for the skin. do you know that small amounts of nitrogenous wastes could be eliminated through saliva too?
+------------------------------------------------------------
+[110] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  17
+TEXT: CHAPTER  17
+chapter 17 17.1 types of movement movement is one of the significant features of living beings. animals and plants exhibit a wide range of movements. streaming of protoplasm in the unicellular organisms like amoeba is a simple form of movement. movement of cilia, flagella and tentacles are shown by many organisms. human beings can move limbs, jaws, eyelids, tongue, etc. some of the movements result in a change of place or location. such voluntary movements are called locomotion. walking, running, climbing, flying and swimming are all some forms of locomotory movements. locomotory structures need not be different from those affecting other types of movements. for example, in paramoecium, cilia helps in the movement of food through cytopharynx and in locomotion as well. hydra can use its tentacles for capturing its prey and also use them for locomotion. we use limbs for changes in body postures and locomotion as well. the above observations suggest that movements and locomotion cannot be studied separately. the two may be linked by stating that all locomotions are movements but all movements are not locomotions. methods of locomotion performed by animals vary with their habitats and the demand of the situation.
+------------------------------------------------------------
+[111] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: CHAPTER  17
+TEXT: CHAPTER  17
+however, locomotion is generally for search of food, shelter, mate, suitable breeding grounds, favourable climatic conditions or to escape from enemies/predators. 17.2 muscle 17.3 skeletal system 17.4 joints 17.5 disorders of muscular and skeletal system
+------------------------------------------------------------
+[112] TYPE=exercise | LEVEL=1 | SOURCE=pymupdf
+TITLE: 218
+TEXT: 218 biology some specialised cells in our body like macrophages and leucocytes in blood exhibit amoeboid movement. it is effected by pseudopodia formed by the streaming of protoplasm (as in amoeba). cytoskeletal elements like microfilaments are also involved in amoeboid movement. ciliary movement occurs in most of our internal tubular organs which are lined by ciliated epithelium. the coordinated movements of cilia in the trachea help us in removing dust particles and some of the foreign substances inhaled along with the atmospheric air. passage of ova through the female reproductive tract is also facilitated by the ciliary movement. movement of our limbs, jaws, tongue, etc, require muscular movement. the contractile property of muscles are effectively used for locomotion and other movements by human beings and majority of multicellular organisms. locomotion requires a perfect coordinated activity of muscular, skeletal and neural systems. in this chapter, you will learn about the types of muscles, their structure, mechanism of their contraction and important aspects of the skeletal system.
+------------------------------------------------------------
+[113] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 225
+TEXT: 225 vertebral column with the help of two occipital condyles (dicondylic skull). our vertebral column (figure 17.7) is formed by 26 serially arranged units called vertebrae and is dorsally placed. it extends from the base of the skull and constitutes the main framework of the trunk. each vertebra has a central hollow portion (neural canal) through which the spinal cord passes. first vertebra is the atlas and it articulates with the occipital condyles. the vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull. the number of cervical vertebrae are seven in almost all mammals including human beings. the vertebral column protects the spinal cord, supports the head and serves as the point of attachment for the ribs and musculature of the back. sternum is a flat bone on the ventral midline of thorax. there are 12 pairs of ribs. each rib is a thin flat bone connected dorsally to the vertebral column and ventrally to the sternum. it has two articulation surfaces on its dorsal end and is hence called bicephalic. first seven pairs of ribs are called true ribs.
+------------------------------------------------------------
+[114] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 225
+TEXT: 225
+dorsally, they are attached to the thoracic vertebrae and ventrally connected to the sternum with the help of hyaline cartilage. the 8th, 9th and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. these are called vertebrochondral (false) ribs. last 2 pairs (11th and 12th) of ribs are not connected ventrally and are therefore, called floating ribs. thoracic vertebrae, ribs and sternum together form the rib cage (figure 17.8). the bones of the limbs along with their girdles constitute the appendicular
+------------------------------------------------------------
+[115] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: DISORDERS OF MUSCULAR AND SKELETAL SYSTEM
+TEXT: disorders of muscular and skeletal system myasthenia gravis: auto immune disorder affecting neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscle. muscular dystrophy: progressive degeneration of skeletal muscle mostly due to genetic disorder. tetany: rapid spasms (wild contractions) in muscle due to low ca++ in body fluid. arthritis: inflammation of joints. osteoporosis: age-related disorder characterised by decreased bone mass and increased chances of fractures. decreased levels of estrogen is a common cause. gout: inflammation of joints due to accumulation of uric acid crystals.
+------------------------------------------------------------
+[116] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: NEURAL SYSTEM
+TEXT: neural system the neural system of all animals is composed of highly specialised cells called neurons which can detect, receive and transmit different kinds of stimuli. the neural organisation is very simple in lower invertebrates. for example, in hydra it is composed of a network of neurons. the neural system is better organised in insects, where a brain is present along with a number of ganglia and neural tissues. the vertebrates have a more developed neural system.
+------------------------------------------------------------
+[117] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: HUMAN NEURAL SYSTEM
+TEXT: human neural system the human neural system is divided into two parts : (i) the central neural system (cns) (ii) the peripheral neural system (pns) the cns includes the brain and the spinal cord and is the site of information processing and control. the pns comprises of all the nerves of the body associated with the cns (brain and spinal cord). the nerve fibres of the pns are of two types : (a) afferent fibres (b) efferent fibres the afferent nerve fibres transmit impulses from tissues/organs to the cns and the efferent fibres transmit regulatory impulses from the cns to the concerned peripheral tissues/organs. the pns is divided into two divisions called somatic neural system and autonomic neural system. the somatic neural system relays impulses from the cns to skeletal muscles while the autonomic neural system transmits impulses from the cns to the involuntary organs and smooth muscles of the body. the autonomic neural system is further classified into sympathetic neural system and parasympathetic neural system.
+------------------------------------------------------------
+[118] TYPE=classification | LEVEL=1 | SOURCE=pymupdf
+TITLE: HUMAN NEURAL SYSTEM
+TEXT: HUMAN NEURAL SYSTEM
+visceral nervous system is the part of the peripheral nervous system that comprises the whole complex of nerves, fibres, ganglia, and plexuses by which impulses travel from the central nervous system to the viscera and from the viscera to the central nervous system.
+------------------------------------------------------------
+[119] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: NEURON AS STRUCTURAL AND FUNCTIONAL UNIT OF
+TEXT: neuron as structural and functional unit of
+------------------------------------------------------------
+[120] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 233
+TEXT: 233 a na - - - - - - - - - - - + + + + + + + + + + + + - - + + + + + + + + + + + + - - - - - - - - - na b - - - - - - - - - - - + + + + + + + + + + + + - - + + + + + + + + + + + + - - - - - - - - - figure 18.2 diagrammatic representation of impulse conduction through an axon (at points a and b) becomes negatively charged and, therefore is, polarised. the electrical potential difference across the resting plasma membrane is called as the
+------------------------------------------------------------
+[121] TYPE=summary | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: summary the neural system coordinates and integrates functions as well as metabolic and homeostatic activities of all the organs. neurons, the functional units of neural system are excitable cells due to a differential concentration gradient of ions across the membrane. the electrical potential difference across the resting neural membrane is called the ‘resting potential’. the nerve impulse is conducted along the axon membrane in the form of a wave of depolarisation and repolarisation. a synapse is formed by the membranes of a pre-synaptic neuron and a post-synaptic neuron which may or may not be separated by a gap called synaptic cleft. chemicals involved in the transmission of impulses at chemical synapses are called neurotransmitters. human neural system consists of two parts : (i) central neural system (cns) and (ii) the peripheral neural system. the cns consists of the brain and spiral cord. the brain can be divided into three major parts : (i) forebrain, (ii) midbrain and (iii) hindbrain. the forebrain consists of cerebrum, thalamus and hypothalamus. the cerebrum is longitudinally divided into two halves that are connected by the corpus callosum. a very important part of the forebrain called hypothalamus controls the body temperature, eating and drinking.
+------------------------------------------------------------
+[122] TYPE=summary | LEVEL=1 | SOURCE=pymupdf
+TITLE: SUMMARY
+TEXT: SUMMARY
+inner parts of cerebral hemispheres and a group of associated deep structures form a complex structure called limbic system which is concerned with olfaction, autonomic responses, regulation of sexual behaviour, expression of emotional reactions, and motivation. the midbrain receives and integrates visual, tactile and auditory inputs. the hindbrain comprises pons, cerebellum and medulla. the cerebellum integrates information received from the semicircular canals of the ear and the auditory system. the medulla contains centres, which control respiration, cardiovascular reflexes, and gastric secretions. pons consist of fibre tracts that interconnect different regions of the brain.
+------------------------------------------------------------
+[123] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: AND INTEGRATION
+TEXT: and integration 19.1 endocrine glands and hormones you have already learnt that the neural system provides a point-to-point rapid coordination among organs. the neural coordination is fast but short-lived. as the nerve fibres do not innervate all cells of the body and the cellular functions need to be continuously regulated; a special kind of coordination and integration has to be provided. this function is carried out by hormones. the neural system and the endocrine system jointly coordinate and regulate the physiological functions in the body. 19.2 human endocrine system 19.3 hormones of heart, kidney and gastrointestinal tract
+------------------------------------------------------------
+[124] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: 19.2.7
+TEXT: 19.2.7 adrenal gland our body has one pair of adrenal glands, one above of each kidney (figure 19.4 a). the gland is composed of two types of tissues. the centrally located tissue is called the adrenal medulla, and outside this lies the adrenal
+------------------------------------------------------------
+[125] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: cortex (Figure 19.4 b).
+TEXT: cortex (figure 19.4 b). underproduction of hormones by the adrenal cortex alters carbohydrate metabolism causing acute weakness and fatigue leading
+------------------------------------------------------------
+[126] TYPE=example | LEVEL=1 | SOURCE=pymupdf
+TITLE: 247
+TEXT: 247 chemical coordination and integration ovarian follicles, appearance of female secondary sex characters (e.g., high pitch of voice, etc.) and mammary gland development. estrogens also regulate female sexual behaviour. progesterone supports pregnancy. progesterone also acts on the mammary glands and stimulates the formation of alveoli (sac-like structures which store milk) and milk secretion.
+------------------------------------------------------------
+[127] TYPE=example | LEVEL=2 | SOURCE=pymupdf
+TITLE: HORMONES OF HEART, KIDNEY AND GASTROINTESTINAL TRACT
+TEXT: hormones of heart, kidney and gastrointestinal tract now you know about the endocrine glands and their hormones. however, as mentioned earlier, hormones are also secreted by some tissues which are not endocrine glands. for example, the atrial wall of our heart secretes a very important peptide hormone called atrial natriuretic factor (anf), which decreases blood pressure. when blood pressure is increased, anf is secreted which causes dilation of the blood vessels. this reduces the blood pressure. the juxtaglomerular cells of kidney produce a peptide hormone called
+------------------------------------------------------------
+[128] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: erythropoietin which stimulates erythropoiesis (formation of RBC).
+TEXT: erythropoietin which stimulates erythropoiesis (formation of rbc). endocrine cells present in different parts of the gastro-intestinal tract secrete four major peptide hormones, namely gastrin, secretin, cholecystokinin (cck) and gastric inhibitory peptide (gip). gastrin acts on the gastric glands and stimulates the secretion of hydrochloric acid and pepsinogen. secretin acts on the exocrine pancreas and stimulates secretion of water and bicarbonate ions. cck acts on both pancreas and gall bladder and stimulates the secretion of pancreatic enzymes and bile juice, respectively. gip inhibits gastric secretion and motility. several other non-endocrine tissues secrete hormones called growth factors. these factors are essential for the normal growth of tissues and their repairing/regeneration.
+------------------------------------------------------------
+[129] TYPE=concept | LEVEL=2 | SOURCE=pymupdf
+TITLE: MECHANISM OF HORMONE ACTION
+TEXT: mechanism of hormone action hormones produce their effects on target tissues by binding to specific
+------------------------------------------------------------
+[130] TYPE=concept | LEVEL=1 | SOURCE=pymupdf
+TITLE: 249
+TEXT: 249 chemical coordination and integration (b) figure 19.5 diagramatic representation of the mechanism of hormone action : (a) protein hormone (b) steroid hormone
+------------------------------------------------------------
+[131] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: 
+ 
+
+
+ 
+
+
+ 
+
+ | | 
+ | 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+  |
+------------------------------------------------------------
+[132] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: common bi
+name n | ological
+ame | genus | family | order | class | phylum/
+division
+man h | omo sapiens | homo | hominidae | primata | mammalia | chordata
+housefly m
+do | usca
+mestica | musca | muscidae | diptera | insecta | arthropoda
+mango m
+in | angifera
+dica | mangifera | anacardiaceae | sapindales | dicotyledonae | angiospermae
+wheat tr
+ae | iticum
+stivum | triticum | poaceae | poales | monocotyledonae | angiospermae
+------------------------------------------------------------
+[133] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: ccccchhhhhaaaaarrrrraaaaacccccttttteeeeerrrrrsssss | fffffiiiiivvvvveeeee kkkkkiiiiinnnnngggggdddddooooommmmmsssss | | | | 
+ | mmmmmooooonnnnneeeeerrrrraaaaa | ppppprrrrroooootttttiiiiissssstttttaaaaa | fffffuuuuunnnnngggggiiiii | ppppplllllaaaaannnnntttttaaaaaeeeee | aaaaannnnniiiiimmmmmaaaaallllliiiiiaaaaa
+cell type | prokaryotic | eukaryotic | eukaryotic | eukaryotic | eukaryotic
+cell wall | noncellulosic
+(polysaccharide
++ amino acid) | present in
+some | present
+with chitin | present
+(cellulose) | absent
+nuclear
+membrane | absent | present | present | present | present
+body
+organisation | cellular | cellular | multiceullar/
+loose tissue | tissue/
+organ | tissue/organ/
+organ system
+mode of
+nutrition | autotrophic
+(chemosynthetic and
+photosynthetic)
+and heterotrophic (saprophytic/parasitic) | autotrophic
+(photosynthetic) and
+heterotrophic | heterotrophic
+(saprophytic/
+parasitic) | autotrophic
+(photosynthetic) | heterotrophic
+(holozoic/
+saprophytic
+etc.)
+------------------------------------------------------------
+[134] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: classes | common
+name | major
+pigments | stored
+food | cell wall | flagellar
+number and
+position of
+insertions | habitat
+chlorophyceae | green
+algae | chlorophyll
+a, b | starch | cellulose | 2-8, equal,
+apical | fresh water,
+brackish water,
+salt water
+phaeophyceae | brown
+algae | chlorophyll
+a, c,
+fucoxanthin | mannitol,
+laminarin | cellulose
+and algin | 2, unequal,
+lateral | fresh water
+(rare), brackish
+water, salt
+water
+rhodophyceae | red
+algae | chlorophyll
+a, d,
+phycoerythrin | floridean
+starch | cellulose,
+pectin and
+poly
+sulphate
+esters | absent | fresh water
+(some),
+brackish
+water, salt
+water (most)
+------------------------------------------------------------
+[135] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: s.no. | chordates | non-chordates
+1. | notochord present. | notochord absent.
+2. | central nervous system is dorsal,
+hollow and single. | central nervous system is ventral, solid
+and double.
+3. | pharynx perforated by gill slits. | gill slits are absent.
+4. | heart is ventral. | heart is dorsal (if present).
+5. | a post-anal part (tail) is present. | post-anal tail is absent.
+------------------------------------------------------------
+[136] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: phylum | level of
+organisation | symmetry | coelom | segmentation | digestive
+system | circulatory
+system | respiratory
+system | distinctive
+features
+porifera | cellular | various | absent | absent | absent | absent | absent | body with pores
+and canals in walls.
+coelenterata
+(cnidaria) | tissue | radial | absent | absent | incomplete | absent | absent | cnidoblasts
+present.
+ctenophora | tissue | radial | absent | absent | incomplete | absent | absent | comb plates for
+locomotion.
+platyhelminthes | organ &
+organsystem | bilateral | absent | absent | incomplete | absent | absent | flat body, suckers.
+aschelminthes | organsystem | bilateral | pseudo
+coelomate | absent | complete | absent | absent | often wormshaped,
+elongated.
+annelida | organsystem | bilateral | coelomate | present | complete | present | absent | body segmentation like rings.
+arthropoda | organsystem | bilateral | coelomate | present | complete | present | present | exoskeleton of cuticle, jointed appendages.
+mollusca | organsystem | bilateral | coelomate | absent | complete | present | present | external skeleton
+of shell usually
+present.
+echinodermata | organsystem | radial | coelomate | absent | complete | present | present | water vascular
+system, radial
+symmetry.
+hemichordata | organsystem | bilateral | coelomate | absent | complete | present | present | worm-like with
+proboscis, collar
+and trunk.
+chordata | organsystem | bilateral | coelomate | present | complete | present | present | notochord, dorsal
+hollow nerve cord,
+gill slits with
+limbs or fins.
+------------------------------------------------------------
+[137] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: element | % weight of
+earth’s crust human body | 
+hydrogen (h)
+carbon (c)
+oxygen (o)
+nitrogen (n)
+sulphur (s)
+sodium (na)
+calcium (ca)
+magnesium (mg)
+silicon (si) | 0.14
+0.03
+46.6
+very little
+0.03
+2.8
+3.6
+2.1
+27.7 | 9.5
+18.5
+65.0
+3.3
+0.3
+0.2
+1.5
+0.1
+negligible
+* adapted from cnr rao, understanding chemistry,
+universities press, hyderabad. | |
+------------------------------------------------------------
+[138] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: component | formula
+sodium | na+
+potassium | k+
+calcium | ca++
+magnesium | mg++
+water | ho
+2
+compounds | nacl, caco ,
+3
+po3− , so2−
+4 4
+------------------------------------------------------------
+[139] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: pigments | carotenoids, anthocyanins,
+etc.
+alkaloids | morphine, codeine, etc.
+terpenoides | monoterpenes, diterpenes etc.
+essential oils | lemon grass oil, etc.
+toxins | abrin, ricin
+lectins | concanavalin a
+drugs | vinblastin, curcumin, etc.
+polymeric
+substances | rubber, gums, cellulose
+------------------------------------------------------------
+[140] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: component | % of the total
+cellular mass
+water | 70-90
+proteins | 10-15
+carbohydrates | 3
+lipids | 2
+nucleic acids | 5-7
+ions | 1
+------------------------------------------------------------
+[141] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: protein | functions
+collagen | intercellular ground
+substance
+trypsin | enzyme
+insulin | hormone
+antibody | fights infectious agents
+receptor | sensory reception
+(smell, taste, hormone,
+etc.)
+glut-4 | enables glucose
+transport
+into cells
+------------------------------------------------------------
+[142] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: meiosis i | meiosis ii
+prophase i | prophase ii
+metaphase i | metaphase ii
+anaphase i | anaphase ii
+telophase i | telophase ii
+------------------------------------------------------------
+[143] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: in | out
+six co
+2
+18 atp
+12 nadph | one glucose
+18 adp
+12 nadp
+------------------------------------------------------------
+[144] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: characteristics | c plants
+3 | c plants
+4 | choose from
+cell type in which the calvin
+cycle takes place | | | mesophyll/bundle sheath/both
+cell type in which the initial
+carboxylation reaction occurs | | | mesophyll/bundle sheath /both
+how many cell types does the
+leaf have that fix co .
+2 | | | two: bundle sheath and
+mesophyll
+one: mesophyll
+three: bundle sheath, palisade,
+spongy mesophyll
+which is the primary co acceptor
+2 | | | rubp/pep/pga
+number of carbons in the
+primary co acceptor
+2 | | | 5 / 4 / 3
+which is the primary co
+2
+fixation product | | | pga/oaa/rubp/pep
+no. of carbons in the primary
+co fixation product
+2 | | | 3 / 4 / 5
+does the plant have rubisco? | | | yes/no/not always
+does the plant have pep case? | | | yes/no/not always
+which cells in the plant have
+rubisco? | | | mesophyll/bundle sheath/none
+co fixation rate under high
+2
+light conditions | | | low/ high/ medium
+whether photorespiration is
+present at low light intensities | | | high/negligible/sometimes
+whether photorespiration is
+present at high light intensities | | | high/negligible/sometimes
+whether photorespiration would be
+present at low co concentrations
+2 | | | high/negligible/sometimes
+whether photorespiration would be
+present at high co concentrations
+2 | | | high/negligible/sometimes
+temperature optimum | | | 30-40°c/20-25°c/above 40°c
+examples | | | cut vertical sections of leaves of
+different plants and observe under
+the microscope for kranz anatomy
+and list them in the appropriate
+columns.
+------------------------------------------------------------
+[145] TYPE=table | LEVEL=0 | SOURCE=pdfplumber
+TITLE: 
+TEXT: blood group | antigens on
+rbcs | antibodies
+in plasma | donor’s group
+a | a | anti-b | a, o
+b | b | anti-a | b, o
+ab | a, b | nil | ab, a, b, o
+o | nil | anti-a, b | o
+------------------------------------------------------------

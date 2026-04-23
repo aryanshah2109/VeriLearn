@@ -1,6 +1,6 @@
 import glob
 import os
 
-for file in glob.iglob('.', recursive=True):
-    if os.path.isfile(file):
-        print(file)
+for file in glob.iglob('data/raw/ncert/**/*.pdf', recursive=True):
+    file = os.path.normpath(file)
+    print(file)
